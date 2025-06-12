@@ -36,4 +36,6 @@ The following models are implemented and available in the `notebooks` directory:
 ## License
 
 This project is licensed under the MIT License.
-Note: Forked from xai, where I contributed as Ibrahem-Ali99
+
+## Note
+Forked from xai, where I contributed as Ibrahem-Ali99
